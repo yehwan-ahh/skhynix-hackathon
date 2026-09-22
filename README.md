@@ -2,6 +2,8 @@
 
 SK하이닉스 AI 해커톤 2026 포트폴리오 프로젝트
 
+**🔗 라이브 데모**: [skhynix-hackathon-yehwan.streamlit.app](https://skhynix-hackathon-yehwan.streamlit.app/)
+
 ## 문제 정의
 
 반도체 에칭(Etch) 공정에서 ER(Etch Rate) 같은 결과 지표에 이상이 발생했을 때, 담당자는 "어떤 공정 파라미터가 문제였을까?"를 경험과 감으로 추적하는 경우가 많다. 이 프로젝트는 이 과정을 데이터 기반으로 보조하는 것을 목표로 한다:
